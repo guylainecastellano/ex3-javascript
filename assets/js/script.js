@@ -1,4 +1,2 @@
-var valeur = prompt("Saisir son prénom");
-if(valeur){
-alert('Bonjour,' + valeur);
-}
+var value = prompt("Saisir son prénom");
+alert("Bonjour," + value);
